@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IqbalSurahman
-- 👀 I’m interested in Transport Planning
-- 🌱 I’m currently learning GTFS
+- 👀 I’m interested in Transport Planning and Modelling
+- 🌱 I’m currently learning Transport Modelling based on Open Data
 - 💞️ I’m looking to collaborate on Transport API
 - 📫 How to reach me iqbalfachrurrazie@gmail.com // iqbalsu@kth.se
